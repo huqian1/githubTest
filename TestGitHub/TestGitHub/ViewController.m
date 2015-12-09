@@ -12,7 +12,8 @@
 
 //登陆git测试
 @property (nonatomic ,copy )NSString *login ;
-
+//分支修改
+@property (nonatomic ,copy )NSString *branch ;
 
 //git使用测试
 @property (nonatomic ,copy )NSString *name ;
