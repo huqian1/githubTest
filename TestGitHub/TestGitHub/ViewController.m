@@ -10,6 +10,10 @@
 
 @interface ViewController ()
 
+//登陆git测试
+@property (nonatomic ,copy )NSString *login ;
+
+
 //git使用测试
 @property (nonatomic ,copy )NSString *name ;
 
