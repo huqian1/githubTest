@@ -10,6 +10,9 @@
 
 @interface ViewController ()
 
+//git使用测试
+@property (nonatomic ,copy )NSString *name ;
+
 @end
 
 @implementation ViewController
@@ -17,6 +20,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    
 }
 
 - (void)didReceiveMemoryWarning {
